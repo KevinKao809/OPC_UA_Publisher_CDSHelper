@@ -1,0 +1,17 @@
+{
+  "APIURL": "https://msfapiservice.trafficmanager.net/",
+  "CompanyId": 55,
+  "EquipmentId": "SiemensPLC-M",
+  "MessageCatalogId": "263",
+  "IoTDeviceID": "MoxaSi",
+  "IoTDevicePW": "12345",
+  "OPCUAServer": [
+    {
+      "EndpointURL": "opc.tcp://192.168.2.156:52520/OPCUA/OldiOPCServer",
+      "userIdentity": {
+        "id": "iotcenter",
+        "password": "Passw0rd2017"
+      }
+    }
+  ]
+}

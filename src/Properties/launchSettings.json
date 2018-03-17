@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpcPublisher_CDS": {
+      "commandName": "Project",
+      "commandLineArgs": "OpcPublisher_CDS --iothubsendinterval=2 --autotrustservercerts=true "
+    }
+  }
+}

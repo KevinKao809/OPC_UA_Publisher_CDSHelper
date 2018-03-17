@@ -1,0 +1,20 @@
+[
+  {
+    "EndpointUrl": "opc.tcp://192.168.2.152:41210/",
+    "NodeId": {
+      "Identifier": "\"ns=3;s=\"Sensor_IW2_PV\"\""
+    }
+  },
+  {
+    "EndpointUrl": "opc.tcp://192.168.2.152:41210/",
+    "NodeId": {
+      "Identifier": "\"ns=3;s=\"Sensor_I00_ON\"\""
+    }
+  },
+  {
+    "EndpointUrl": "opc.tcp://192.168.2.152:41210/",
+    "NodeId": {
+      "Identifier": "\"ns=3;s=\"Servo_Speed\"\""
+    }
+  }
+]

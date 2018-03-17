@@ -1,0 +1,39 @@
+
+  [
+    {
+      "NodeId": "ns=2;s=OPC.Sensor_IW0",
+      "ApplicationUri": "urn::SchneiderElectric:M241-251UaServer",
+      "DisplayName": "ns=2;s=OPC.Sensor_IW0",
+      "Gateway": "uagwadvt01", 
+      "CPU_Usage": "3.6875seconds",
+      "Memory_Usage": "85.000 MB",
+      "Value": {
+        "Value": 409,
+        "SourceTimestamp": "2000-02-22T03:58:55.8590000Z"
+      }
+    },
+    {
+      "NodeId": "ns=2;s=OPC.Sensor_IX00_ON",
+      "ApplicationUri": "urn::SchneiderElectric:M241-251UaServer",
+      "DisplayName": "ns=2;s=OPC.Sensor_IX00_ON",
+      "Gateway": "uagwmoxa01",
+      "CPU_Usage": "4.046875seconds",
+      "Memory_Usage": "85.000 MB",
+      "Value": {
+        "Value": true,
+        "SourceTimestamp": "2000-02-22T04:02:10.1840000Z"
+      }
+    },
+    {
+      "NodeId": "ns=2;s=OPC.Read_Velocity",
+      "ApplicationUri": "urn::SchneiderElectric:M241-251UaServer",
+      "DisplayName": "ns=2;s=OPC.Read_Velocity",
+      "Gateway": "uagwnexc01",
+      "CPU_Usage": "4.6875seconds",
+      "Memory_Usage": "85.000 MB",
+      "Value": {
+        "Value": 494,
+        "SourceTimestamp": "2000-02-22T04:08:36.9520000Z"
+      }
+    }  
+]

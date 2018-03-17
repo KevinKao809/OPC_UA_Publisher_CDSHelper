@@ -1,0 +1,8 @@
+[
+  {
+    "EndpointUrl": "opc.tcp://192.168.2.156:52520/OPCUA/OldiOPCServer",
+    "NodeId": {
+      "Identifier": "ns=10;s=TInput_2"
+    }
+  }
+]
